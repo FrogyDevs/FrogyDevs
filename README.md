@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://github.com/FrogyDevs">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=698&text=Hello!%20I'm%20FrgoyDev" alt="Hello! I&#39;m FrogyDev" />
-  </a>
-</p>
 
 ### 🛠️ Tech Stack
 
